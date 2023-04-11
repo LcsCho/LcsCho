@@ -7,6 +7,7 @@
 ## Email
 chojunhee98@gmail.com
 
+## Introduction
 I'm a backend developer.
 Programming 
 <!--

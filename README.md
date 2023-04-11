@@ -15,10 +15,11 @@ My purpose is to be a backend developer.
 
 ## Technology Stack
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=뱃지모양&logo=springboot&logoColor=000000"/></a>
 
 ## Stats
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=뱃지모양&logo=springboot&logoColor=000000"/></a>
+
 
 ![Lucas Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscho&show_icons=true&theme=dark)
 <!--

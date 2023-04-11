@@ -13,14 +13,14 @@ I'm currently an undergraduate majoring in software engineering.<br/>
 I'm currently studying Java and Spring Boot.<br/>
 My purpose is to be a backend developer.
 
-## Technology Stack
+## Tech Stack
 
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=000000"/></a>
 
 ## Stats
-
-
 ![Lucas Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscho&show_icons=true&theme=dark)
 <!--
 **LcsCho/LcsCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

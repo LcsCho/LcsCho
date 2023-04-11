@@ -21,6 +21,10 @@ My purpose is to be a backend developer.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
 
+## Tools
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=intellijidea&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipseide&logoColor=white"/></a>
+
 ## Stats
 ![Lucas Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscho&show_icons=true&theme=dark)
 

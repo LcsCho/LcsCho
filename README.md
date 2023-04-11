@@ -8,7 +8,7 @@
 chojunhee98@gmail.com
 
 ## Introduction
-I'm a backend developer.
+I'm a backend developer.<br/>
 Programming 
 <!--
 **LcsCho/LcsCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

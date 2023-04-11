@@ -15,7 +15,7 @@ My purpose is to be a backend developer.
 
 ## Technology Stack
 
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=000000"/></a>
 
 ## Stats

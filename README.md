@@ -22,9 +22,6 @@
 
 ### Stats
 ![Lucas Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscho&show_icons=true&theme=dark)
-
-### Most Used Languages
-
 <a href="https://github.com/lcscho"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcscho&layout=compact&theme=nord&hide_border=true" /></a> 
 <!--
 **LcsCho/LcsCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

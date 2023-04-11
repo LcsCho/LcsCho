@@ -12,7 +12,7 @@ I'm currently an undergraduate majoring in software engineering.<br/>
 I'm currently studying Java and Spring Boot.<br/>
 My purpose is to be a backend developer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Lucas Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscho&show_icons=true&theme=radical)
 <!--
 **LcsCho/LcsCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

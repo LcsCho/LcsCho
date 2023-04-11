@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.instagram.com/lcscho/" target="lcscho"><img src="https://img.shields.io/badge/label-E4405F?style=plastic&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://www.instagram.com/lcscho/" target="lcscho"><img src="https://img.shields.io/badge/lcscho-E4405F?style=plastic&logo=instagram&logoColor=E4405F"/></a>
 
 <!--
 **LcsCho/LcsCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

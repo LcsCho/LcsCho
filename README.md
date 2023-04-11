@@ -15,9 +15,10 @@ My purpose is to be a backend developer.
 
 ## Tech Stack
 
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=![image](https://user-images.githubusercontent.com/99018717/231163250-279c177b-11e9-4b66-a4de-71146c4b2469.png)&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=000000"/></a>
 
 ## Stats

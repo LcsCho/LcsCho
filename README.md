@@ -8,8 +8,9 @@
 chojunhee98@gmail.com
 
 ## Introduction
+I'm currently an undergraduate majoring in software engineering.<br/>
 I'm a backend developer.<br/>
-Programming 
+I'm currently studying Java and Spring Boot.
 <!--
 **LcsCho/LcsCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

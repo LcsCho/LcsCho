@@ -19,10 +19,6 @@ My purpose is to be a backend developer.
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
-
-## Sub
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white"/></a>

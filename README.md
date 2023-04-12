@@ -4,7 +4,7 @@
 - My purpose is to be a backend developer.
 
 # SNS
-<a href="https://www.linkedin.com/in/LinkedIn-8081b4264/" target="_blank"><img src="https://img.shields.io/badge/Lucas Cho-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lucas-cho-8081b4264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/lcscho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
   
 # BLOG

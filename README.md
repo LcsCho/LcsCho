@@ -1,9 +1,7 @@
-<div align="center">
-
 # Introduction
-I'm currently an undergraduate majoring in software engineering.<br/>
-I'm currently studying Java and Spring Boot.<br/>
-My purpose is to be a backend developer.
+- I'm currently an undergraduate majoring in software engineering.<br/>
+- I'm currently studying Java and Spring Boot.<br/>
+- My purpose is to be a backend developer.
 
 # SNS
 <a href="https://www.linkedin.com/in/lucas-cho-8081b4264/" target="_blank"><img src="https://img.shields.io/badge/Lucas Cho-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
@@ -45,8 +43,6 @@ My purpose is to be a backend developer.
 ![Lucas Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscho&show_icons=true&theme=dark)
 
 <a href="https://github.com/lcscho"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcscho&layout=compact&theme=nord&hide_border=true" /></a> 
-
-</div>
 <!--
 **LcsCho/LcsCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

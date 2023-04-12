@@ -24,6 +24,7 @@ My purpose is to be a backend developer.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white"/></a></br>
+
 ## Sub
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/></a>

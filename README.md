@@ -27,8 +27,8 @@ My purpose is to be a backend developer.
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/></a>
 
 

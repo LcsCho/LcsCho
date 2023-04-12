@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/chojunhee98@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/></a>
 
 # Tech Stack
-## Main
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/></a>
@@ -23,12 +22,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"/></a>
-
-## Sub(Used at least once)
-<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/></a>
 
 # Stats
 ![Lucas Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscho&show_icons=true&theme=dark)

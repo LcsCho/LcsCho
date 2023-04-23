@@ -11,7 +11,7 @@
 <a href="https://velog.io/@chocaprio" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
 
 # E-mail
-<img src="https://img.shields.io/badge/lcscho98@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/chojunhee98@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/></a>
 
 # Tech Stack
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/></a>

@@ -1,5 +1,5 @@
 # Introduction
-- I'm currently an undergraduate majoring in software engineering.<br/>
+- I'm an undergraduate majoring in software engineering.<br/>
 - I'm currently studying Java and Spring Boot.<br/>
 - My purpose is to be a back-end developer.
 

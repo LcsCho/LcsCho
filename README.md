@@ -23,9 +23,12 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/FontAwesome-528DD7?style=plastic&logo=fontawesome&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=plastic&logo=apachetomcat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/></a>
 
 # Stats
 ![Lucas Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscho&show_icons=true&theme=dark)

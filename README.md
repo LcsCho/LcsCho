@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=plastic&logo=apachetomcat&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"/></a>
 
 # Stats
 ![Lucas Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscho&show_icons=true&theme=dark)

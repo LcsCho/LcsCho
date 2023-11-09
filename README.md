@@ -5,8 +5,7 @@
 
 # SNS
 <a href="https://www.linkedin.com/in/lucas-cho-8081b4264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/lcscho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
-  
+
 # BLOG
 <a href="https://velog.io/@chocaprio" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
 

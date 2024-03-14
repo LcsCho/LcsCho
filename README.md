@@ -1,6 +1,6 @@
 # Introduction
 - My major is software engineering.<br/>
-- I'm working C# and Java.<br/>
+- I'm working with C# and Java.<br/>
 - I'm software developer.
 
 # SNS

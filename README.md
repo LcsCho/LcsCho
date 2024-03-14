@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/chojunhee98@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/></a>
 
 # Tech Stack
-<img src="https://img.shields.io/badge/C#-512BD4?style=plastic&logo=csharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSharp-512BD4?style=plastic&logo=csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/></a>

@@ -15,6 +15,7 @@
 # Tech Stack
 <img src="https://img.shields.io/badge/CSharp-512BD4?style=plastic&logo=csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/></a>

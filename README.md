@@ -1,7 +1,8 @@
 # Introduction
+- I'm software developer.<br/>
 - My major is software engineering.<br/>
-- I'm working with C# and Java.<br/>
-- I'm software developer.
+- I'm working at Korea FA Systems Co., Ltd.<br/>
+- My major languages are C# and Java.
 
 # SNS
 <a href="https://www.linkedin.com/in/lucas-cho-8081b4264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>

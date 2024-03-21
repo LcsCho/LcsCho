@@ -27,7 +27,7 @@
 <!--
 ![Lucas Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscho&show_icons=true&theme=dark)
 -->
-<img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcscho&layout=compact&theme=nord&hide_border=true" />
+<img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcscho&layout=compact&theme=nord&hide_border=true"/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dvlp)](https://solved.ac/dvlp/)
 
 

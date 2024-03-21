@@ -2,7 +2,7 @@
 - I'm a software developer.<br/>
 - My major is aerospace software engineering.<br/>
 - I'm working at Korea FA Systems Co., Ltd. (03/2024 - Present)<br/>
-- My main languages are Java and c#.
+- My main languages are Java and C#.
 
 # SNS
 <a href="https://www.linkedin.com/in/jun-hee-cho-8081b4264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>

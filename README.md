@@ -1,7 +1,7 @@
 # Introduction
 - I'm a software developer.<br/>
 - My major is aerospace software engineering.<br/>
-- I'm working at Korea FA Systems Co., Ltd. (03/2024 - Present)<br/>
+- I'm working at Korea FA Systems Co., Ltd. (Mar 2024 - Present)<br/>
 - My main languages are Java and C#.
 
 # SNS

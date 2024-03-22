@@ -4,6 +4,9 @@
 - I'm working at Korea FA Systems Co., Ltd. (Mar 2024 - Present)<br/>
 - My main languages are Java and C#.
 
+# Portfolio
+<a href="[https://www.linkedin.com/in/jun-hee-cho-8081b4264/](https://junheecho.notion.site/1b04402bd02b438dbbb9a319fba9a7ec?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=plastic&logo=notion&logoColor=white"/></a>
+
 # SNS
 <a href="https://www.linkedin.com/in/jun-hee-cho-8081b4264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
 

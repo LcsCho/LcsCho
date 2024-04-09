@@ -1,8 +1,8 @@
 # Introduction
-- I'm a software developer.<br/>
-- My major is aerospace software engineering.<br/>
 - I'm working at Korea FA Systems Co., Ltd. (Mar 2024 - Present)<br/>
+- I'm a software developer.<br/>
 - My main languages are Java and C#.
+- My major is aerospace software engineering.<br/>
 
 # Portfolio
 <a href="https://junheecho.notion.site/1b04402bd02b438dbbb9a319fba9a7ec?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"/></a>
